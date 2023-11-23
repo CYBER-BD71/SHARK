@@ -240,6 +240,8 @@ def rcrack1(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = { 'authority': 'mbasic.facebook.com',
+                             File "/data/data/com.termux/files/home/SHARK/SHARK.py", line 244
+         'path':'/login/device-based/regular/login/?refsrc=deprecated&lwv=101&ref=dbl',
            'method':'GET',
            'scheme':'https',
            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
